@@ -1,0 +1,15 @@
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.exe
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.deps.json
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.runtimeconfig.json
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ref\ProjektRabatNaLotyWDP1.dll
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.AssemblyReference.cache
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfoInputs.cache
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfo.cs
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.CoreCompileInputs.cache
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ref\ProjektRabatNaLotyWDP1.dll
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
+E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.genruntimeconfig.cache
