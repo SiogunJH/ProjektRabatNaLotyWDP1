@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj": {}
+    "D:\\Users\\jakub.hojda\\MyData\\Wprowadzenie do Programowania\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj": {}
   },
   "projects": {
-    "E:\\Git\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj": {
+    "D:\\Users\\jakub.hojda\\MyData\\Wprowadzenie do Programowania\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj",
+        "projectUniqueName": "D:\\Users\\jakub.hojda\\MyData\\Wprowadzenie do Programowania\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj",
         "projectName": "ProjektRabatNaLotyWDP1",
-        "projectPath": "E:\\Git\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj",
-        "packagesPath": "C:\\Users\\homar\\.nuget\\packages\\",
-        "outputPath": "E:\\Git\\ProjektRabatNaLotyWDP1\\obj\\",
+        "projectPath": "D:\\Users\\jakub.hojda\\MyData\\Wprowadzenie do Programowania\\ProjektRabatNaLotyWDP1\\ProjektRabatNaLotyWDP1.csproj",
+        "packagesPath": "D:\\Users\\jakub.hojda\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\jakub.hojda\\MyData\\Wprowadzenie do Programowania\\ProjektRabatNaLotyWDP1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\homar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "D:\\Users\\jakub.hojda\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

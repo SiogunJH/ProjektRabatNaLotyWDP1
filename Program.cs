@@ -49,9 +49,9 @@
             //SEZONOWOŚĆ
             bool isSeasonal;
             if (
-                (dateOfFlight.Month == 7 || dateOfFlight.Month == 8) ||
-                (dateOfFlight > new DateTime(dateOfFlight.Year, 12, 20) || dateOfFlight < new DateTime(dateOfFlight.Year, 1, 10)) ||
-                (dateOfFlight > new DateTime(dateOfFlight.Year, 3, 20) && dateOfFlight < new DateTime(dateOfFlight.Year, 4, 10))
+                (dateOfFlight.Month == 7 || dateOfFlight.Month == 8) || //miesiąc Lipiec lub Sierpień
+                (dateOfFlight >= new DateTime(dateOfFlight.Year, 12, 20) || dateOfFlight <= new DateTime(dateOfFlight.Year, 1, 10)) || //Okres wakacyjny 20.12.XXXX – 10.01.XXX(X+1)
+                (dateOfFlight >= new DateTime(dateOfFlight.Year, 3, 20) && dateOfFlight <= new DateTime(dateOfFlight.Year, 4, 10)) // Okres wakacyjny 20.03.XXXX – 10.04.XXXX
                 )
                 isSeasonal = true;
             else
@@ -119,7 +119,10 @@
 
             //GÓRNA GRANICA RABATU
             if (rabat > rabatMax)
+            {
+                Console.WriteLine($"\nNaliczony rabat {rabat}% przekracza limit rabatu i zostanie zredukowany do {rabatMax}%");
                 rabat = rabatMax;
+            }
 
             //PODSUMOWANIE
             Console.WriteLine($"\nNaliczony zostanie rabat w wysokości {rabat}%");

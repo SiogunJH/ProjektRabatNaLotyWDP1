@@ -1,30 +1,15 @@
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.exe
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.deps.json
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.runtimeconfig.json
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ref\ProjektRabatNaLotyWDP1.dll
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.AssemblyReference.cache
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.GeneratedMSBuildEditorConfig.editorconfig
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfoInputs.cache
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfo.cs
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.CoreCompileInputs.cache
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ref\ProjektRabatNaLotyWDP1.dll
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
-E:\Studia\Projekty\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.genruntimeconfig.cache
-E:\Git\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.exe
-E:\Git\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.deps.json
-E:\Git\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.runtimeconfig.json
-E:\Git\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
-E:\Git\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.AssemblyReference.cache
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.GeneratedMSBuildEditorConfig.editorconfig
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfoInputs.cache
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfo.cs
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.CoreCompileInputs.cache
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\refint\ProjektRabatNaLotyWDP1.dll
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.genruntimeconfig.cache
-E:\Git\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ref\ProjektRabatNaLotyWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.exe
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.deps.json
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.runtimeconfig.json
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\bin\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.AssemblyReference.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfoInputs.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.AssemblyInfo.cs
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.csproj.CoreCompileInputs.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\refint\ProjektRabatNaLotyWDP1.dll
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.pdb
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ProjektRabatNaLotyWDP1.genruntimeconfig.cache
+D:\Users\jakub.hojda\MyData\Wprowadzenie do Programowania\ProjektRabatNaLotyWDP1\obj\Debug\net6.0\ref\ProjektRabatNaLotyWDP1.dll
